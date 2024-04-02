@@ -60,6 +60,3 @@ print("Data Successfully Saved at "+dataset_path+file_name+'.npy')
 
 cap.release()
 cv2.destroyAllWindows()
-
-
-
